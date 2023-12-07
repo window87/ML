@@ -2,4 +2,8 @@
 
 We performed transfer learning on already trained mobilenet_v2 to classify 17 historical sites.
 
-Dataset: https://drive.google.com/drive/folders/1iSorYSJaqYm48523h4CaLoQO9rHwy92Y?usp=sharing
+Dataset Resources
+--
+- [Google Image](https://images.google.com/)
+- [Pinterest](https://id.pinterest.com/)
+- [iStock](https://www.istockphoto.com/)
